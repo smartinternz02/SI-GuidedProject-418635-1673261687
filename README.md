@@ -8,7 +8,7 @@ we get data about the world's cities, regions, and nations.We can Filter cities 
 
 we have
 <html>
-<h1> Home page<h1>
-<h1> Login Page<h1>
-<h1> Register Page<h1>
-<p>Smartinternz Virtual Internship Project : Flightaware. • View ﬂight prices, route wise ﬂights, country details, city details. • Designed using the frameworks HTML, CSS, Java, Spring boot, Heroku Cloud.<p>
+<h1> Home page 
+Login Page
+Register Page <h1>
+Smartinternz Virtual Internship Project : Flightaware. • View ﬂight prices, route wise ﬂights, country details, city details. • Designed using the frameworks HTML, CSS, Java, Spring boot, Heroku Cloud.
