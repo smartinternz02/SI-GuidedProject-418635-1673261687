@@ -10,10 +10,10 @@ Home page
 ![3 jpg](https://user-images.githubusercontent.com/107304838/212678567-9aac9577-048b-474b-b020-984b8a468163.png)
 
 Register Page
-![2 jpg](https://user-images.githubusercontent.com/107304838/212678557-81a0c832-24d6-4148-be95-b02ac70f48d8.png)
+![1 jpg](https://user-images.githubusercontent.com/107304838/212678570-bb2a6967-0c9e-48ba-a2d5-733d974472b0.png)
 
 Login Page 
-![1 jpg](https://user-images.githubusercontent.com/107304838/212678570-bb2a6967-0c9e-48ba-a2d5-733d974472b0.png)
+![2 jpg](https://user-images.githubusercontent.com/107304838/212678557-81a0c832-24d6-4148-be95-b02ac70f48d8.png)
 
 
 
