@@ -15,5 +15,5 @@ Register Page
 Login Page 
 ![2 jpg](https://user-images.githubusercontent.com/107304838/212678557-81a0c832-24d6-4148-be95-b02ac70f48d8.png)
 
-
-
+Details
+![4 jpg](https://user-images.githubusercontent.com/107304838/212680115-df2dc317-2c8c-44f7-99aa-b36f5966541d.png)
